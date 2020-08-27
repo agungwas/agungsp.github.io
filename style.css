@@ -1,0 +1,11 @@
+
+.orang {
+    /* max-content: ; */
+    width: 50%;
+    border-block-color: red;
+    margin-right: 0;
+    border: 2px  lightcoral
+}
+.paragraf {
+    width: 50%;
+}
